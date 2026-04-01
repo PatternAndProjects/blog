@@ -1,0 +1,12 @@
+title: Dein Blog-Titel
+description: Schön, dass du da bist. Auf meinem Blog teile ich mit dir meine persönlichen Projekte und setze alles in den Kontext des Projektmanagements und teste Projektmanagement Methoden aus. 
+url: "https://PatternAndProjects.gitbug.io"
+author: Dein Name
+
+theme: minima
+
+permalink: /:year/:month/:day/:title
+
+exclude:
+-Gemfile
+-Gefile.lock
