@@ -1,6 +1,6 @@
 title: Dein Blog-Titel
 description: Schön, dass du da bist. Auf meinem Blog teile ich mit dir meine persönlichen Projekte und setze alles in den Kontext des Projektmanagements und teste Projektmanagement Methoden aus. 
-baseurl: "https://pattern-and-projects"
+baseurl: "https://pattern-and-projects.github.io"
 author: Dein Name
 
 theme: minima
