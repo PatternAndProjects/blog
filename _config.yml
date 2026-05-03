@@ -1,7 +1,7 @@
 title: "Pattern And Projects"
 description: "Home Automation mit PM-Methodik - ehrlich dokumentiert."
 url: "https://PatternAndProjects.github.io"
-baseurl: "/pattern-and-projects"
+baseurl: "/blog"
 author: Franziska Gombert
 
 theme: minima
