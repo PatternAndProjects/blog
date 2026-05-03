@@ -1,6 +1,7 @@
 title: "Pattern And Projects"
-description: "Schoen, dass du da bist. Auf meinem Blog teile ich mit dir meine persönlichen Projekte und setze alles in den Kontext des Projektmanagements und teste Projektmanagement Methoden aus."
+description: "Home Automation mit PM-Methodik - ehrlich dokumentiert."
 url: "https://PatternAndProjects.github.io"
+baseurl: "/pattern-and-projects"
 author: Franziska Gombert
 
 theme: minima
