@@ -1,6 +1,8 @@
+---
 layout: page
 title: Datenschutzerklärung
 permalink: /datenschutz/
+---
 Datenschutzerklärung
 1. Verantwortliche Person
 Verantwortlich für die Datenverarbeitung auf diesem Blog ist:
