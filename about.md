@@ -23,7 +23,7 @@ Der Kindertraum vom großen Haus ist einer erwachseneren Version gewichen: einer
 Reale Tatsachen statt Träumerei — steigende Lebenshaltungskosten, knappes Budget, Ungewissheit. Und trotzdem: dieser Blog ist mein Weg, dem Traum näherzukommen.
 
 
----
+
 
 
 ## Die Idee dahinter
@@ -38,7 +38,7 @@ Ich bin gerade dabei, PM-Methoden zu lernen — und gleichzeitig wende ich sie a
 Das heißt: Hier dokumentiere ich, wie klassisches Projektmanagement, agile Methoden und Lean-Prinzipien funktionieren — angewendet auf reale Home-Automation-Projekte. Was klappt, was nicht, und was die Theorie verschweigt.
 
 
----
+
 
 
 ## Für wen ist das hier?
@@ -53,7 +53,7 @@ Für Menschen, die:
 - oder einfach neugierig sind, wie weit man mit einer Mietwohnung, einem knappen Budget und einer guten Methode kommt
 
 
----
+
 
 
 ## Was dich erwartet
