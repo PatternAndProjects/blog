@@ -62,5 +62,5 @@ Bis dahin: Der nächste Post beschreibt, was passiert ist, als ich den Sonoff Do
 
 
 Projektkurzbeschreibung und Phasenplan als Download verfügbar: 
-- [Projektkurzbeschreibung](/bog/assets/docs/projektkurzbeschreibung-heizungssteuerung.pdf)
-- [Phasenplan](/blog/docs/stageplan-heizungssteuerung-v2.pdf)
+- [Projektkurzbeschreibung](/blog/assets/docs/projektkurzbeschreibung-heizungssteuerung.pdf)
+- [Phasenplan](/blog/assets/docs/stageplan-heizungssteuerung-v2.pdf)
