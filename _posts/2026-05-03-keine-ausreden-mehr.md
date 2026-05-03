@@ -51,10 +51,17 @@ Ein klares Budget. Eine Garantie, dass es funktioniert. Und die Gewissheit, dass
 
 Warum ich das hier dokumentiere
 
-Ich interessiere mich wirklich dafür, ob sich das finanziell rechnet. Nicht als Experiment im Abstrakten, sondern konkret: Was kostet die Hardware? Was spare ich an Heizkosten? Ab wann hat sich die Investition amortisiert?
-Das werde ich hier ausrechnen — sobald ich echte Daten habe.
+Ich interessiere mich wirklich dafür, ob sich das finanziell rechnet.
+
+Nicht als Experiment im Abstrakten, sondern konkret: 
+- Was kostet die Hardware? 
+- Was spare ich an Heizkosten? 
+-Ab wann hat sich die Investition amortisiert?
+
+Das werde ich hier ausrechnen, sobald ich echte Daten habe.
 Bis dahin: Der nächste Post beschreibt, was passiert ist, als ich den Sonoff Dongle zum ersten Mal angeschlossen habe. Spoiler: Es war lehrreich.
----
-Projektkurzbeschreibung und Risikoregister als Download verfügbar: 
+
+
+Projektkurzbeschreibung und Phasenplan als Download verfügbar: 
 - [Projektkurzbeschreibung](/bog/assets/docs/projektkurzbeschreibung-heizungssteuerung.pdf)
 - [Phasenplan](/blog/docs/stageplan-heizungssteuerung-v2.pdf)
