@@ -6,12 +6,15 @@ permalink: /impressum/
 
 Impressum
 Angaben gemäß § 5 TMG:
+
 Franziska Gombert  
 Schlesierstraße 28  
 76275 Ettlingen
 Deutschland
+
 Kontakt:  
 E-Mail: isabellgombert@googlemail.com
+
 Hinweis:  
 Dieser Blog wird als privates, nicht-kommerzielles Angebot betrieben.
 ---
