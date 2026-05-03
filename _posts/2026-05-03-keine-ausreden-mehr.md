@@ -55,4 +55,6 @@ Ich interessiere mich wirklich dafür, ob sich das finanziell rechnet. Nicht als
 Das werde ich hier ausrechnen — sobald ich echte Daten habe.
 Bis dahin: Der nächste Post beschreibt, was passiert ist, als ich den Sonoff Dongle zum ersten Mal angeschlossen habe. Spoiler: Es war lehrreich.
 ---
-Projektkurzbeschreibung und Risikoregister als Download verfügbar — Links oben im Text.
+Projektkurzbeschreibung und Risikoregister als Download verfügbar: 
+- [Projektkurzbeschreibung](/bog/assets/docs/projektkurzbeschreibung-heizungssteuerung.pdf)
+- [Phasenplan](/blog/docs/stageplan-heizungssteuerung-v2.pdf)
