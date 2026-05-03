@@ -2,6 +2,8 @@
 layout: page
 title: Impressum
 permalink: /impressum/
+---
+
 Impressum
 Angaben gemäß § 5 TMG:
 Franziska Gombert  
