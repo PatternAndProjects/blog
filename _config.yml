@@ -5,7 +5,7 @@ baseurl: "/blog"
 author: Franziska Gombert
 
 theme: minima
-logo: /assets/images/logo.svg
+logo: /assets/images/Logo.svg
 permalink: /:year/:month/:day/:title
 
 exclude:
